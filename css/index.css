@@ -2,7 +2,7 @@ body
 {
    background-color: #FFFFFF;
    color: #000000;
-   font-family: Arial;
+   font-family: Cairo;
    font-weight: normal;
    font-size: 13px;
    line-height: 1.1875;
@@ -2050,7 +2050,7 @@ body
 #wb_linksText4
 {
    color: #FFFFFF;
-   font-family: Arial;
+   font-family: Cairo;
    font-weight: normal;
    font-size: 19px;
    line-height: 21px;
@@ -3224,7 +3224,7 @@ body
 #wb_uid2
 {
    color: #FFFFFF;
-   font-family: "Arial";
+   font-family: "Cairo";
    font-size: 13px;
 }
 #wb_Icon4
@@ -4240,7 +4240,7 @@ body
 }
 #wb_linksText4
 {
-   font-family: Arial;
+   font-family: Cairo;
    font-weight: 400;
    font-size: 13px;
    margin: 0;
